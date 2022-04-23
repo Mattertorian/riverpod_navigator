@@ -17,8 +17,7 @@ dependencies:
   hooks_riverpod: ^2.0.0-dev.5
   meta: ^1.7.0
   riverpod_navigator_core: # 1.0.2
-    url: https://github.com/Mattertorian/riverpod_navigator.git
-    path: packages/riverpod_navigator_core 
+    path: ../riverpod_navigator_core
 
 dev_dependencies: 
   test:
